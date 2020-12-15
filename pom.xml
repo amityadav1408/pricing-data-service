@@ -10,10 +10,10 @@
 	</parent>
 	<groupId>com.pricing.data</groupId>
 	<artifactId>pricing-data-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>pricing-data-service</name>
 	<description>pricing data project for Spring Boot</description>
-
+   <packaging>jar</packaging>
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Hoxton.SR9</spring-cloud.version>
