@@ -9,7 +9,7 @@
     "prdctCtgry": "Business Select Account Services",
     "pricingCcy": "INR",
     "pricingType": "T-Zero",
-    "price": "2,583.85"
+    "price": 2583.85
   },
   {
     "id": "5fd99a8eef4305e0a2b91002",
@@ -21,7 +21,7 @@
     "prdctCtgry": "Other Account Services",
     "pricingCcy": "INR",
     "pricingType": "T-Zero",
-    "price": "2,016.93"
+    "price": 2016.93
   },
   {
     "id": "5fd99a8e37811ca31d275878",
@@ -33,7 +33,7 @@
     "prdctCtgry": "Cross-Border Inward TT Credit",
     "pricingCcy": "INR",
     "pricingType": "T-Zero",
-    "price": "1,828.90"
+    "price": 1828.90
   },
   {
     "id": "5fd99a8e19b81ba254beb15f",
@@ -45,7 +45,7 @@
     "prdctCtgry": "Cash Concentration",
     "pricingCcy": "INR",
     "pricingType": "T-Zero/Tiered",
-    "price": "2,393.30"
+    "price": 2393.30
   },
   {
     "id": "5fd99a8e9eb9080705137337",
@@ -57,7 +57,7 @@
     "prdctCtgry": "Cross-Border Inward TT Credit",
     "pricingCcy": "INR",
     "pricingType": "D:",
-    "price": "1,916.50"
+    "price": 1916.50
   },
   {
     "id": "5fd99a8e06cb6462351d89e9",
@@ -69,7 +69,7 @@
     "prdctCtgry": "Business Direct Account Services",
     "pricingCcy": "INR",
     "pricingType": "T-Zero",
-    "price": "3,695.35"
+    "price": 3695.35
   },
   {
     "id": "5fd99a8e12fbba29c7c3dad6",
@@ -81,7 +81,7 @@
     "prdctCtgry": "Business Select Account Services",
     "pricingCcy": "INR",
     "pricingType": "T-Zero/Tiered",
-    "price": "2,933.63"
+    "price": 2933.63
   },
   {
     "id": "5fd99a8e28c5fcd4868974d6",
@@ -93,7 +93,7 @@
     "prdctCtgry": "Business Vantage Account Services",
     "pricingCcy": "INR",
     "pricingType": "T-Zero",
-    "price": "3,132.27"
+    "price": 3132.27
   },
   {
     "id": "5fd99a8e4064014e620121aa",
@@ -105,7 +105,7 @@
     "prdctCtgry": "SWIFTnet",
     "pricingCcy": "INR",
     "pricingType": "T-Zero/Tiered",
-    "price": "2,527.42"
+    "price": 2527.42
   },
   {
     "id": "5fd99a8ec8e6b5c03aa70777",
@@ -117,7 +117,7 @@
     "prdctCtgry": "ABAP Connect",
     "pricingCcy": "INR",
     "pricingType": "C:",
-    "price": "1,809.82"
+    "price": 1809.82
   },
   {
     "id": "5fd99a8e1c18c27ea4ff3ef4",
@@ -129,7 +129,7 @@
     "prdctCtgry": "Business Vantage Account Services",
     "pricingCcy": "INR",
     "pricingType": "D:",
-    "price": "3,320.25"
+    "price": 3320.25
   },
   {
     "id": "5fd99a8e0662cdb68c0bad76",
@@ -141,7 +141,7 @@
     "prdctCtgry": "Business Vantage Account Services",
     "pricingCcy": "INR",
     "pricingType": "D:",
-    "price": "2,916.11"
+    "price": 2916.11
   },
   {
     "id": "5fd99a8e8be14a168bc8ffdf",
@@ -153,7 +153,7 @@
     "prdctCtgry": "Business Direct Account Services",
     "pricingCcy": "INR",
     "pricingType": "D:",
-    "price": "3,834.72"
+    "price": 3834.72
   },
   {
     "id": "5fd99a8e9e1f1dc8827072e0",
@@ -165,7 +165,7 @@
     "prdctCtgry": "Business Select Account Services",
     "pricingCcy": "INR",
     "pricingType": "T-Zero",
-    "price": "2,697.34"
+    "price": 2697.34
   },
   {
     "id": "5fd99a8ef52b249aa4db97ce",
@@ -177,7 +177,7 @@
     "prdctCtgry": "SWIFTnet",
     "pricingCcy": "INR",
     "pricingType": "D:",
-    "price": "3,204.67"
+    "price": 3204.67
   },
   {
     "id": "5fd99a8e516f8e090a481d09",
@@ -189,7 +189,7 @@
     "prdctCtgry": "ABAP Connect",
     "pricingCcy": "INR",
     "pricingType": "T-Zero/Tiered",
-    "price": "2,818.65"
+    "price": 2818.65
   },
   {
     "id": "5fd99a8e314c67b7c279179c",
@@ -201,7 +201,7 @@
     "prdctCtgry": "ABAP Connect",
     "pricingCcy": "INR",
     "pricingType": "D-Tiered",
-    "price": "1,456.60"
+    "price": 1456.60
   },
   {
     "id": "5fd99a8e9b33d0f6997d0691",
@@ -213,7 +213,7 @@
     "prdctCtgry": "Cash Payout Services",
     "pricingCcy": "INR",
     "pricingType": "C:",
-    "price": "1,474.61"
+    "price": 1474.61
   },
   {
     "id": "5fd99a8e66dc079483d8ce80",
@@ -225,7 +225,7 @@
     "prdctCtgry": "SWIFTnet",
     "pricingCcy": "INR",
     "pricingType": "D:",
-    "price": "1,474.19"
+    "price": 1474.19
   },
   {
     "id": "5fd99a8e2a835e16c66f49a4",
@@ -237,6 +237,6 @@
     "prdctCtgry": "Business Select Account Services",
     "pricingCcy": "INR",
     "pricingType": "T-Zero/Tiered",
-    "price": "1,668.11"
+    "price": 1668.11
   }
 ]

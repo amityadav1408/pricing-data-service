@@ -8,7 +8,7 @@
       <prdct_ctgry>Business Select Account Services</prdct_ctgry>
       <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
       <prdct_grp>Collection Services</prdct_grp>
-      <price>$2,583.85</price>
+      <price>2583.85</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>T-Zero</pricing_type>
    </element>
@@ -20,7 +20,7 @@
       <prdct_ctgry>Other Account Services</prdct_ctgry>
       <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
       <prdct_grp>Account services and Liquidity</prdct_grp>
-      <price>$2,016.93</price>
+      <price>2016.93</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>T-Zero</pricing_type>
    </element>
@@ -32,7 +32,7 @@
       <prdct_ctgry>Cross-Border Inward TT Credit</prdct_ctgry>
       <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
       <prdct_grp>Collection Services</prdct_grp>
-      <price>$1,828.90</price>
+      <price>1828.90</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>T-Zero</pricing_type>
    </element>
@@ -44,7 +44,7 @@
       <prdct_ctgry>Cash Concentration</prdct_ctgry>
       <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
       <prdct_grp>Collection Services</prdct_grp>
-      <price>$2,393.30</price>
+      <price>2393.30</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>T-Zero/Tiered</pricing_type>
    </element>
@@ -56,7 +56,7 @@
       <prdct_ctgry>Cross-Border Inward TT Credit</prdct_ctgry>
       <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
       <prdct_grp>Channels</prdct_grp>
-      <price>$1,916.50</price>
+      <price>1916.50</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>D:</pricing_type>
    </element>
@@ -68,7 +68,7 @@
       <prdct_ctgry>Business Direct Account Services</prdct_ctgry>
       <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
       <prdct_grp>Account services and Liquidity</prdct_grp>
-      <price>$3,695.35</price>
+      <price>3695.35</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>T-Zero</pricing_type>
    </element>
@@ -80,7 +80,7 @@
       <prdct_ctgry>Business Select Account Services</prdct_ctgry>
       <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
       <prdct_grp>Channels</prdct_grp>
-      <price>$2,933.63</price>
+      <price>2933.63</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>T-Zero/Tiered</pricing_type>
    </element>
@@ -92,7 +92,7 @@
       <prdct_ctgry>Business Vantage Account Services</prdct_ctgry>
       <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
       <prdct_grp>Channels</prdct_grp>
-      <price>$3,132.27</price>
+      <price>3132.27</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>T-Zero</pricing_type>
    </element>
@@ -104,7 +104,7 @@
       <prdct_ctgry>SWIFTnet</prdct_ctgry>
       <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
       <prdct_grp>Account services and Liquidity</prdct_grp>
-      <price>$2,527.42</price>
+      <price>2527.42</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>T-Zero/Tiered</pricing_type>
    </element>
@@ -116,7 +116,7 @@
       <prdct_ctgry>ABAP Connect</prdct_ctgry>
       <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
       <prdct_grp>Collection Services</prdct_grp>
-      <price>$1,809.82</price>
+      <price>1809.82</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>C:</pricing_type>
    </element>
@@ -128,7 +128,7 @@
       <prdct_ctgry>Business Vantage Account Services</prdct_ctgry>
       <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
       <prdct_grp>Channels</prdct_grp>
-      <price>$3,320.25</price>
+      <price>3320.25</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>D:</pricing_type>
    </element>
@@ -140,7 +140,7 @@
       <prdct_ctgry>Business Vantage Account Services</prdct_ctgry>
       <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
       <prdct_grp>Account services and Liquidity</prdct_grp>
-      <price>$2,916.11</price>
+      <price>2916.11</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>D:</pricing_type>
    </element>
@@ -152,7 +152,7 @@
       <prdct_ctgry>Business Direct Account Services</prdct_ctgry>
       <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
       <prdct_grp>Channels</prdct_grp>
-      <price>$3,834.72</price>
+      <price>3834.72</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>D:</pricing_type>
    </element>
@@ -164,7 +164,7 @@
       <prdct_ctgry>Business Select Account Services</prdct_ctgry>
       <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
       <prdct_grp>Account services and Liquidity</prdct_grp>
-      <price>$2,697.34</price>
+      <price>2697.34</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>T-Zero</pricing_type>
    </element>
@@ -176,7 +176,7 @@
       <prdct_ctgry>SWIFTnet</prdct_ctgry>
       <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
       <prdct_grp>Account services and Liquidity</prdct_grp>
-      <price>$3,204.67</price>
+      <price>3204.67</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>D:</pricing_type>
    </element>
@@ -188,7 +188,7 @@
       <prdct_ctgry>ABAP Connect</prdct_ctgry>
       <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
       <prdct_grp>Channels</prdct_grp>
-      <price>$2,818.65</price>
+      <price>2818.65</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>T-Zero/Tiered</pricing_type>
    </element>
@@ -200,7 +200,7 @@
       <prdct_ctgry>ABAP Connect</prdct_ctgry>
       <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
       <prdct_grp>Collection Services</prdct_grp>
-      <price>$1,456.60</price>
+      <price>1456.60</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>D-Tiered</pricing_type>
    </element>
@@ -212,7 +212,7 @@
       <prdct_ctgry>Cash Payout Services</prdct_ctgry>
       <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
       <prdct_grp>Collection Services</prdct_grp>
-      <price>$1,474.61</price>
+      <price>1474.61</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>C:</pricing_type>
    </element>
@@ -224,7 +224,7 @@
       <prdct_ctgry>SWIFTnet</prdct_ctgry>
       <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
       <prdct_grp>Account services and Liquidity</prdct_grp>
-      <price>$1,474.19</price>
+      <price>1474.19</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>D:</pricing_type>
    </element>
@@ -236,7 +236,7 @@
       <prdct_ctgry>Business Select Account Services</prdct_ctgry>
       <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
       <prdct_grp>Account services and Liquidity</prdct_grp>
-      <price>$1,668.11</price>
+      <price>1668.11</price>
       <pricing_ccy>INR</pricing_ccy>
       <pricing_type>T-Zero/Tiered</pricing_type>
    </element>

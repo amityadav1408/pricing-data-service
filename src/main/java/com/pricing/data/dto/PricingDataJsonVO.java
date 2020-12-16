@@ -19,7 +19,7 @@ public class PricingDataJsonVO implements Serializable {
 	private String prdctCtgry;
 	private String pricingCcy;
 	private String pricingType;
-	private String price;
+	private Double price;
 	public String getId() {
 		return id;
 	}
@@ -74,12 +74,13 @@ public class PricingDataJsonVO implements Serializable {
 	public void setPricingType(String pricingType) {
 		this.pricingType = pricingType;
 	}
-	public String getPrice() {
+	public Double getPrice() {
 		return price;
 	}
-	public void setPrice(String price) {
+	public void setPrice(Double price) {
 		this.price = price;
 	}
+	
 	
 	
 	
