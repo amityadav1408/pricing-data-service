@@ -14,6 +14,7 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.core.io.InputStreamResource;
@@ -22,6 +23,7 @@ import org.springframework.stereotype.Service;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.pricing.data.dto.PaymentNotificationDetails;
 import com.pricing.data.dto.PricingDataJsonVO;
 import com.pricing.data.dto.PricingDataXMLVO;
 
@@ -198,4 +200,14 @@ public class PricingDataServiceImpl implements PricingDataService {
 		}
 
 	}
+	
+	private static List<PaymentNotificationDetails> detail = new ArrayList<PaymentNotificationDetails>();
+	
+	@Override
+	public PaymentNotificationDetails getPaymentDetails(PaymentNotificationDetails details) {
+		detail.add(details);
+		return details;
+	}
+	
+	
 }

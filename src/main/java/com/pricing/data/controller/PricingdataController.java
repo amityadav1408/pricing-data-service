@@ -15,11 +15,13 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
+import com.pricing.data.dto.PaymentNotificationDetails;
 import com.pricing.data.dto.PricingDataJsonVO;
 import com.pricing.data.service.PricingDataService;
 
@@ -59,6 +61,13 @@ public class PricingdataController {
 		String str = pricingDataService.savePricingDataInJson(pricingDataJsonVO);
 		System.out.println("file:::" + str);
 		return ResponseEntity.ok(str);
+	}
+	
+	@RequestMapping(value = "/details", method = RequestMethod.POST, consumes  = MediaType.APPLICATION_JSON_VALUE)
+	public ResponseEntity<String> getPaymentNotifDetails(@RequestHeader("clientId") String clientId, @RequestBody PaymentNotificationDetails paymentNotificationDetails){
+		System.out.println(clientId);
+		pricingDataService.getPaymentDetails(paymentNotificationDetails);
+		return ResponseEntity.ok("Successfully received payment details.");
 	}
 
 }

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <account_number>5fd99a8e0ac83d4e3425c670</account_number>
+      <customer_id>24055</customer_id>
+      <id>5fd99a8ed3b36faadb9cb6cf</id>
+      <prdct_code>API02</prdct_code>
+      <prdct_ctgry>Business Select Account Services</prdct_ctgry>
+      <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
+      <prdct_grp>Collection Services</prdct_grp>
+      <price>2583.85</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>T-Zero</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8ed163dfb8f20df9af</account_number>
+      <customer_id>37682</customer_id>
+      <id>5fd99a8eef4305e0a2b91002</id>
+      <prdct_code>NET10</prdct_code>
+      <prdct_ctgry>Other Account Services</prdct_ctgry>
+      <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
+      <prdct_grp>Account services and Liquidity</prdct_grp>
+      <price>2016.93</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>T-Zero</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e6ae60a3c5d87ea0f</account_number>
+      <customer_id>31422</customer_id>
+      <id>5fd99a8e37811ca31d275878</id>
+      <prdct_code>Cash Concentration</prdct_code>
+      <prdct_ctgry>Cross-Border Inward TT Credit</prdct_ctgry>
+      <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
+      <prdct_grp>Collection Services</prdct_grp>
+      <price>1828.90</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>T-Zero</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e8583683a50787014</account_number>
+      <customer_id>16219</customer_id>
+      <id>5fd99a8e19b81ba254beb15f</id>
+      <prdct_code>CNT10</prdct_code>
+      <prdct_ctgry>Cash Concentration</prdct_ctgry>
+      <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
+      <prdct_grp>Collection Services</prdct_grp>
+      <price>2393.30</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>T-Zero/Tiered</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e18389910a0789375</account_number>
+      <customer_id>33140</customer_id>
+      <id>5fd99a8e9eb9080705137337</id>
+      <prdct_code>NET10</prdct_code>
+      <prdct_ctgry>Cross-Border Inward TT Credit</prdct_ctgry>
+      <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
+      <prdct_grp>Channels</prdct_grp>
+      <price>1916.50</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>D:</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e20aa5bdd1d7453d6</account_number>
+      <customer_id>11026</customer_id>
+      <id>5fd99a8e06cb6462351d89e9</id>
+      <prdct_code>API02</prdct_code>
+      <prdct_ctgry>Business Direct Account Services</prdct_ctgry>
+      <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
+      <prdct_grp>Account services and Liquidity</prdct_grp>
+      <price>3695.35</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>T-Zero</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e44b80c0a167f34b4</account_number>
+      <customer_id>36563</customer_id>
+      <id>5fd99a8e12fbba29c7c3dad6</id>
+      <prdct_code>SWN10</prdct_code>
+      <prdct_ctgry>Business Select Account Services</prdct_ctgry>
+      <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
+      <prdct_grp>Channels</prdct_grp>
+      <price>2933.63</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>T-Zero/Tiered</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e1feafccacdd5d4d5</account_number>
+      <customer_id>13586</customer_id>
+      <id>5fd99a8e28c5fcd4868974d6</id>
+      <prdct_code>NET20</prdct_code>
+      <prdct_ctgry>Business Vantage Account Services</prdct_ctgry>
+      <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
+      <prdct_grp>Channels</prdct_grp>
+      <price>3132.27</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>T-Zero</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e636c4bc0ad93238f</account_number>
+      <customer_id>21840</customer_id>
+      <id>5fd99a8e4064014e620121aa</id>
+      <prdct_code>50V</prdct_code>
+      <prdct_ctgry>SWIFTnet</prdct_ctgry>
+      <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
+      <prdct_grp>Account services and Liquidity</prdct_grp>
+      <price>2527.42</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>T-Zero/Tiered</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e2caecae67c6a5fc9</account_number>
+      <customer_id>36589</customer_id>
+      <id>5fd99a8ec8e6b5c03aa70777</id>
+      <prdct_code>CNT10</prdct_code>
+      <prdct_ctgry>ABAP Connect</prdct_ctgry>
+      <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
+      <prdct_grp>Collection Services</prdct_grp>
+      <price>1809.82</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>C:</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e42e82e371ae3bdf5</account_number>
+      <customer_id>19357</customer_id>
+      <id>5fd99a8e1c18c27ea4ff3ef4</id>
+      <prdct_code>NET10</prdct_code>
+      <prdct_ctgry>Business Vantage Account Services</prdct_ctgry>
+      <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
+      <prdct_grp>Channels</prdct_grp>
+      <price>3320.25</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>D:</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e587fcdf24ff0d740</account_number>
+      <customer_id>10650</customer_id>
+      <id>5fd99a8e0662cdb68c0bad76</id>
+      <prdct_code>CTT01</prdct_code>
+      <prdct_ctgry>Business Vantage Account Services</prdct_ctgry>
+      <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
+      <prdct_grp>Account services and Liquidity</prdct_grp>
+      <price>2916.11</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>D:</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e516d2d0be246bd6a</account_number>
+      <customer_id>19978</customer_id>
+      <id>5fd99a8e8be14a168bc8ffdf</id>
+      <prdct_code>CTT01</prdct_code>
+      <prdct_ctgry>Business Direct Account Services</prdct_ctgry>
+      <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
+      <prdct_grp>Channels</prdct_grp>
+      <price>3834.72</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>D:</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e567e60652ab5efe0</account_number>
+      <customer_id>39913</customer_id>
+      <id>5fd99a8e9e1f1dc8827072e0</id>
+      <prdct_code>50V</prdct_code>
+      <prdct_ctgry>Business Select Account Services</prdct_ctgry>
+      <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
+      <prdct_grp>Account services and Liquidity</prdct_grp>
+      <price>2697.34</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>T-Zero</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e399833720f0d6429</account_number>
+      <customer_id>18964</customer_id>
+      <id>5fd99a8ef52b249aa4db97ce</id>
+      <prdct_code>CNAPI</prdct_code>
+      <prdct_ctgry>SWIFTnet</prdct_ctgry>
+      <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
+      <prdct_grp>Account services and Liquidity</prdct_grp>
+      <price>3204.67</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>D:</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8ed7457587002fda08</account_number>
+      <customer_id>19785</customer_id>
+      <id>5fd99a8e516f8e090a481d09</id>
+      <prdct_code>CTT01</prdct_code>
+      <prdct_ctgry>ABAP Connect</prdct_ctgry>
+      <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
+      <prdct_grp>Channels</prdct_grp>
+      <price>2818.65</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>T-Zero/Tiered</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8eb60cc51a47a2d5b9</account_number>
+      <customer_id>35911</customer_id>
+      <id>5fd99a8e314c67b7c279179c</id>
+      <prdct_code>CNT10</prdct_code>
+      <prdct_ctgry>ABAP Connect</prdct_ctgry>
+      <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
+      <prdct_grp>Collection Services</prdct_grp>
+      <price>1456.60</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>D-Tiered</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e7787982231d1eaed</account_number>
+      <customer_id>27566</customer_id>
+      <id>5fd99a8e9b33d0f6997d0691</id>
+      <prdct_code>CNAPI</prdct_code>
+      <prdct_ctgry>Cash Payout Services</prdct_ctgry>
+      <prdct_desc>Treasury API monthly Usage charge</prdct_desc>
+      <prdct_grp>Collection Services</prdct_grp>
+      <price>1474.61</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>C:</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8e717df4b021a269f3</account_number>
+      <customer_id>24042</customer_id>
+      <id>5fd99a8e66dc079483d8ce80</id>
+      <prdct_code>Cash Concentration</prdct_code>
+      <prdct_ctgry>SWIFTnet</prdct_ctgry>
+      <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
+      <prdct_grp>Account services and Liquidity</prdct_grp>
+      <price>1474.19</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>D:</pricing_type>
+   </element>
+   <element>
+      <account_number>5fd99a8eeab529654ee73911</account_number>
+      <customer_id>13124</customer_id>
+      <id>5fd99a8e2a835e16c66f49a4</id>
+      <prdct_code>NET10</prdct_code>
+      <prdct_ctgry>Business Select Account Services</prdct_ctgry>
+      <prdct_desc>ABAP Connect One TIme CharT01</prdct_desc>
+      <prdct_grp>Account services and Liquidity</prdct_grp>
+      <price>1668.11</price>
+      <pricing_ccy>INR</pricing_ccy>
+      <pricing_type>T-Zero/Tiered</pricing_type>
+   </element>
+</root>
